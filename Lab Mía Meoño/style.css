@@ -1,0 +1,25 @@
+* { 
+    padding:0px;
+    margin: 0px;
+    box-sizing: border-box;
+    }
+
+body { 
+    padding: 160px;
+    margin: 200px;
+    }
+
+h1 { 
+    display: block;
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+    text-align: center;
+ }
+   p { 
+    display: flex;
+  justify-content:center;
+    }
+h2{ 
+   color: blue;
+    }
+h3 
